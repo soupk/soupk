@@ -1,9 +1,10 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=soupk&show_icons=true&icon_color=27c968&text_color=d4f4e1&bg_color=333333&hide_title=false&hide_border=true&title_color=ffffff&include_all_commits=true" />
 
+### Hello World 👋
 - :octocat:  New to GitHub
-- :dart:  Stick to the goal
-- :coffee: Be good at Java
-- :ledger:  My notebook
+- :dart:   Stick to the goal
+- :bird:  A green hand
+- :ledger:   My notebook
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soupk&layout=compact" />
 
