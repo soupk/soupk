@@ -1,8 +1,9 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=soupk&show_icons=true&icon_color=27c968&text_color=d4f4e1&bg_color=333333&hide_title=false&hide_border=true&title_color=ffffff&include_all_commits=true" />
 
-- :octocat: GitHub新手上路
-- :dart: ：目标坚持中
-- :ledger: 我的笔记本
+- :octocat:  New to GitHub
+- :dart:  Stick to the goal
+- :coffee: Be good at Java
+- :ledger:  My notebook
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soupk&layout=compact" />
 
